@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="T3-SMTP-SERVER">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/T3-SMTP-SERVER/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/T3-SMTP-SERVER/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
